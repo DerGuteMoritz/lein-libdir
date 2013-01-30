@@ -1,4 +1,4 @@
-(defproject lein-libdir "0.1.0"
+(defproject org.clojars.doo/lein-libdir "0.2.0"
   :description "Copy jar dependencies into the project lib directory"
   :url "http://github.com/djpowell/lein-libdir"
   :license {:name "Eclipse Public License"
